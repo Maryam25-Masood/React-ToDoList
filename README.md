@@ -1,10 +1,11 @@
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 # Deployed on netlify:https://wonderful-todo-list-maryam.netlify.app/
 
 ![ToDoList](https://user-images.githubusercontent.com/120028205/221378663-7179f85e-dc9c-4649-a9e1-d46fc24c5731.png)
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
